@@ -1,4 +1,4 @@
 Google
-======
+========
 
-Eden Google component
+Google for Eden PHP Library
